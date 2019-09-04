@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1009597866839",
+    "firebase_url": "https://sinau-pushnotif-kotlin.firebaseio.com",
+    "project_id": "sinau-pushnotif-kotlin",
+    "storage_bucket": "sinau-pushnotif-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009597866839:android:246cd752014701a9",
+        "android_client_info": {
+          "package_name": "com.gmail.piusanggoro.sinaupushnotif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009597866839-1ulag829uiofbbrr0m6cercbfpaja4pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gmail.piusanggoro.sinaupushnotif",
+            "certificate_hash": "9842d5abcc2d1ace6097dd3b6d674fc5e6f27e8a"
+          }
+        },
+        {
+          "client_id": "1009597866839-jr58m8gl6nnesocnagf7pdf0ghq367jn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbzfD4GJAk9jQbuTgpIfhv7EocRo7VniE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009597866839-jr58m8gl6nnesocnagf7pdf0ghq367jn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

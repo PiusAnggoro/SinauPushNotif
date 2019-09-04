@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sinau PushNotif</string>
+
+    <string name="quickstart_message">Klik tombol BERLANGGANAN di bawah ini
+        \n untuk berlangganan topik cuaca.
+        \n Pesan yang dikirim ke topik cuaca akan diterima.
+        \n Tombol TOKEN mencatat Token InstanceID pada logcat.</string>
+    <string name="subscribe_to_weather">BERLANGGANAN</string>
+    <string name="log_token">TOKEN</string>
+
+    <string name="msg_subscribed">Berlangganan Topik Cuaca</string>
+    <string name="msg_token_fmt" translatable="false">Token InstanceID: %s</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="default_notification_channel_name" translatable="true">Cuaca</string>
+    <string name="msg_subscribe_failed">Gagal berlangganan topik Cuaca</string>
+    <string name="fcm_message">FCM Message</string>
+</resources>
